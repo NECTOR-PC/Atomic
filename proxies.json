@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "host": "proxy_ip",
+    "port": 8080,
+    "user": "proxy_user",
+    "pass": "proxy_pass"
+  }
+]
